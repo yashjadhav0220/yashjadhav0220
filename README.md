@@ -9,7 +9,7 @@ I believe in Learning and Improving daily.
 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashjadhav0220&show_icons=true)  
+ 
 
 
 
