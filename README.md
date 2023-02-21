@@ -9,7 +9,11 @@ I believe in Learning and Improving daily.
 
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashjadhav0220&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashjadhav0220&show_icons=true)  /-->
+
+<h3 align="left">⚙️ &nbsp; Git Analytics</h3>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav0220&theme=dark&layout=compact" width="400" alt="yashjadhav0220"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yashjadhav0220&theme=dark&show_icons=true" height="190"alt="yashjadhav0220"/></p>
 
 
 
