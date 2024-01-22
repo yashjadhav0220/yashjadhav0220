@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I am <strong>Yash Jadhav</strong><br> <strong>Computer Engineering Student</strong> <br><br>I believe in <strong>Learning and Improving daily.</strong><br><br>- 📫 How to reach me: yashjadhav361@gmail.com <br>- 🌱 I’m currently learning: **Web Development**
+Hi there 👋, I am <strong>Yash Jadhav</strong><br> <strong>Computer Engineering Student</strong> <br><br>I believe in <strong>Learning and Improving daily.</strong><br><br>- 📫 How to reach me: yashjadhav361@gmail.com <br>- 
 
 
 ## 🌐 Socials:
